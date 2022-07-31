@@ -7,6 +7,7 @@
 <h4 align="center"> This game can also be played in <a href="https://athixbot.xyz/">Athix Bot</a>.</h4>
 
 ## 🔎 Overview
+![minesweeper](https://user-images.githubusercontent.com/88921711/182034866-78142eef-d84b-4c0a-bcee-f37806109997.gif)
 
 
 ## ❗ Features
