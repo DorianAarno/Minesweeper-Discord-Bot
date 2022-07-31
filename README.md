@@ -18,7 +18,7 @@
 * 🔒 Single Player
 
 ## ❓ How to use it?
-In [config.py](https://github.com/DorianAarno/minesweeper-discord-bot/blob/main/config.py) replace `TOKEN` with your application's token. 
+In [config.py](https://github.com/DorianAarno/Minesweeper-Discord-Bot/blob/main/config.py) replace `TOKEN` with your application's token. 
 **That's it, you're ready to use the bot.**
 
 ## 🧐 Unable to host the bot?
@@ -27,4 +27,4 @@ This minesweeper mini-game was built for <a href="https://athixbot.xyz">Athix Bo
 
  
 ## 📖 License
-Released under the [MIT](https://github.com/DorianAarno/minesweeper-discord-bot/blob/main/LICENSE) license.
+Released under the [MIT](https://github.com/DorianAarno/Minesweeper-Discord-Bot/blob/main/LICENSE) license.
